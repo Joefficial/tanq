@@ -1,5 +1,5 @@
 # tanq
-Group effort between Nate Page @javamatrix, Joe Blanchette @runnerup17, and myself
+Group effort between Nate Page @javamatrix, Joe Blanchette @joefficial, and Adam Espinola
 
 Credits:
 
